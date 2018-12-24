@@ -1,5 +1,5 @@
-# Natural-Language-Processing
-Des tutoriaux pour comprendre les concepts de base du Natural Language Processing.
+# Natural-Language-Processing France
+ensemble de tutoriaux, références, benchmarks et projets en français pour comprendre la Natural Language Processing ( NLP )
 
 Ces tutoriaux correspondent à des projets effectués lors de ma formation Nanodegree d'Udacity sur le Natural Language Processing.
 On y retrouve notamment :
