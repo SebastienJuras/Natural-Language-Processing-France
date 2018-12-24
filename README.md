@@ -5,7 +5,7 @@ Ensemble de tutoriaux, références, benchmarks et projets en français pour com
 
 ### Manipulation de texte
 
-### Principaux conceptes
+### Principaux concepts
 
 ### Comparaison de NLP Cloud Services
 
