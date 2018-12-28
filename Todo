@@ -11,4 +11,6 @@ Concept - Hidden Markov Model appliquée au speech tagging
 Concept - Latent Dirichlet Allocation appliquée à classification de document par domaine
 Cas d'usage - Speech Tagging
 Cas d'usage - Classification de document par domaine
+Librairies - Gensim
+Librairies - NLTK
 Divers - les concepts du livre NLP with Tensorflow
