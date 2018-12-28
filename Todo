@@ -16,4 +16,6 @@ Cas d'usage - Speech Tagging
 Cas d'usage - Classification de document par domaine
 Librairies - Gensim
 Librairies - NLTK
+Services - IBM Watson
+Services - Google Dialogflow
 Divers - les concepts du livre NLP with Tensorflow
