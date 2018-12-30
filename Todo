@@ -14,6 +14,7 @@ Concept - Long Short Term Memory Network ( LSTM )
 Concept - TFDF
 Cas d'usage - Speech Tagging
 Cas d'usage - Classification de document par domaine
+Cas d'usage - Analyze de sentime
 Librairies - Gensim
 Librairies - NLTK
 Services - IBM Watson
