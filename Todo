@@ -13,6 +13,7 @@ Concept - Reccurent Neural Network ( RNN )
 Concept - Long Short Term Memory Network ( LSTM )
 Concept - TFDF
 Concept - Bag of Words
+Concept - Sequence to Sequence ( RNN )
 Cas d'usage - Speech Tagging
 Cas d'usage - Classification de document par domaine
 Cas d'usage - Analyze de sentime
@@ -22,4 +23,6 @@ Services - IBM Watson
 Services - Google Dialogflow
 Projets - Construire un multi model NLP transformant du texte en une modélisation oriénté objet
               - architecture à base de parseur html, module de conversion de ts les concepts, coeur LSTM customisé
+Contact - Benoit Sagot, linguiste français
+Contact - Jay  Alammar,interactive explorations of neural networks ( http://jalammar.github.io/)
 Divers - les concepts du livre NLP with Tensorflow
