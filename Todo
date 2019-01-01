@@ -20,4 +20,6 @@ Librairies - Gensim
 Librairies - NLTK
 Services - IBM Watson
 Services - Google Dialogflow
+Projets - Construire un multi model NLP transformant du texte en une modélisation oriénté objet
+              - architecture à base de parseur html, module de conversion de ts les concepts, coeur LSTM customisé
 Divers - les concepts du livre NLP with Tensorflow
