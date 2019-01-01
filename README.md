@@ -11,9 +11,9 @@ Ensemble de tutoriaux, références, benchmarks et projets en français pour com
 
 ### Outils
 
-### cas d'utilisation
+### Cas d'utilisation
 
-### projets open source
+### Projets open source
 
 ### Références
 
