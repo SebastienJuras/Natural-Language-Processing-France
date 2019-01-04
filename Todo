@@ -9,6 +9,8 @@ Référence - Udacity Nanodegree
 Référence - GitHub ClaudeCoulombe FrenchLefffLemmatizer
 Référence - Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond
 Référence - Google Neural Machine Translation System
+Référence - LSTM for machine reading (papier à trouver)
+Référence _ Attention is all you need ( papier à trouver)
 Concept - Hidden Markov Model appliquée au speech tagging
 Concept - Latent Dirichlet Allocation appliquée à classification de document par domaine
 Concept - Reccurent Neural Network ( RNN )
@@ -17,11 +19,16 @@ Concept - Gated Reccurent Unit ( GRU )
 Concept - TFDF
 Concept - Bag of Words
 Concept - Sequence to Sequence ( RNN )
+Concept - Embedded RNN
+Concept - bi directionel RNN
+Concept - encoder - decoder RNN
 Cas d'usage - Speech Tagging
 Cas d'usage - Classification de document par domaine
 Cas d'usage - Analyze de sentime
 Librairies - Gensim
 Librairies - NLTK
+Librairies - Keras
+Librairies - Tensorflow
 Services - IBM Watson
 Services - Google Dialogflow
 Projets - Construire un multi model NLP transformant du texte en une modélisation oriénté objet
