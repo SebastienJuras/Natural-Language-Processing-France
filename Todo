@@ -11,6 +11,8 @@ Référence - Abstractive Text Summarization using Sequence-to-sequence RNNs and
 Référence - Google Neural Machine Translation System
 Référence - LSTM for machine reading (papier à trouver)
 Référence _ Attention is all you need ( papier à trouver)
+Référence - LibriSpeech ASR corpus ( dataset )
+Référence - THEORY AND PRACTICE OF SPEECH RECOGNITION SYSTEMS ( Carnegie Mellon Univertsity )
 Concept - Hidden Markov Model appliquée au speech tagging
 Concept - Latent Dirichlet Allocation appliquée à classification de document par domaine
 Concept - Reccurent Neural Network ( RNN )
@@ -22,9 +24,13 @@ Concept - Sequence to Sequence ( RNN )
 Concept - Embedded RNN
 Concept - bi directionel RNN
 Concept - encoder - decoder RNN
+Concept - Connectionist Temporal Classification  ( CTC )
+Concept - N-grams
 Cas d'usage - Speech Tagging
 Cas d'usage - Classification de document par domaine
-Cas d'usage - Analyze de sentime
+Cas d'usage - Analyze de sentiment
+Cas d'usage - Machine Translation
+Cas d'usage - Speech recognition
 Librairies - Gensim
 Librairies - NLTK
 Librairies - Keras
