@@ -49,10 +49,12 @@ Cas d'usage - Machine Translation
 Cas d'usage - Speech recognition
 Librairies - Gensim
 Librairies - NLTK
+Librairies - SpaCy
 Librairies - Keras
 Librairies - Tensorflow
 Services - IBM Watson
 Services - Google Dialogflow
+Projets - Parser wikipedia et se construire un dictionaire en ligne
 Projets - Construire un multi model NLP transformant du texte en une modélisation oriénté objet
               - architecture à base de parseur html, module de conversion de ts les concepts, coeur LSTM customisé
 Contact - Benoit Sagot, linguiste français
@@ -60,3 +62,4 @@ Contact - Jay  Alammar,interactive explorations of neural networks ( http://jala
 Contact - Illya Suskever ( OpenAI, GoogleBrain) - attention
 Divers - GPU
 Divers - les concepts du livre NLP with Tensorflow
+Divers - Top3 NLP librairies ( https://www.kaggle.com/mjbahmani/top-3-nlp-libraries-tutorial-nltk-spacy-gensim)
